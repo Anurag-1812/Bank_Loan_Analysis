@@ -3,9 +3,23 @@
 A comprehensive data analytics project focused on analyzing bank loan performance, customer demographics, and loan portfolio insights using Power BI, SQL, and financial datasets.
 
 ## 📊 Project Overview
+This project demonstrates an end-to-end Business Intelligence solution using **MS SQL Server, Power BI, and CSV data**.
 
-This project provides in-depth analysis of bank loan data to help financial institutions make data-driven decisions regarding loan approvals, risk assessment, and portfolio management. The analysis covers loan performance metrics, customer segmentation, and trend analysis.
+The goal was to analyse bank loan applications and repayments to answer key business questions:
+- How many loans are approved, funded, and paid? 
+- What is the overall loan health (default vs. fully paid vs. current)? 
+- Which customer and regional factors affect loan performance? 
 
+The outcome is an interactive Power BI Dashboard that provides actionable insights for risk assessment, portfolio monitoring, and decision-making.
+
+## 📌 Problem Statement  
+Banks issue thousands of loans every year, but not all of them perform well. Some loans default, while others are repaid successfully.  
+
+The objective of this project is to **analyze bank loan data** and build an **interactive Power BI dashboard** that provides insights into:  
+- Loan approval, funding, and repayment trends  
+- Borrower demographics & financial stability  
+- Loan portfolio health (default vs. fully paid vs. current)  
+- Factors influencing loan risk and profitability
 ## 🗂️ Project Structure
 
 ```
